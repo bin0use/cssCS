@@ -71,9 +71,6 @@ dd {
 
     main > div {
         width: 50%;
-    }
-
-    main > div:nth-child(even){
         border-left: thin dashed #1e3449;
         margin-left: -1px;
     }
@@ -94,5 +91,9 @@ dd {
 
     h1 {
         margin-left: 10px;
+    }
+
+    main > div {
+        width: 33.333333333%;
     }
 }
