@@ -40,3 +40,7 @@ h2 {
     color: #fff;
     text-transform: uppercase;
 }
+
+dd {
+    padding-left: 15px;
+}
