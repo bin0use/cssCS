@@ -72,4 +72,9 @@ dd {
     main > div {
         width: 50%;
     }
+
+    main > div:nth-child(even){
+        border-left: thin dashed #1e3449;
+        margin-left: -1px;
+    }
 }
