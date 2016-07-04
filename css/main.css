@@ -46,6 +46,11 @@ dl {
     margin: 8px auto;
 }
 
+dt {
+    font-weight: bold;
+}
+
 dd {
     padding-left: 15px;
+    color: #0f70b7
 }
