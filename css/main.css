@@ -41,6 +41,11 @@ h2 {
     text-transform: uppercase;
 }
 
+dl {
+    padding-left: 15px;
+    margin: 8px auto;
+}
+
 dd {
     padding-left: 15px;
 }
