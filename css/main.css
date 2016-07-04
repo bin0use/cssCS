@@ -78,3 +78,21 @@ dd {
         margin-left: -1px;
     }
 }
+
+
+
+/************************************/
+/*********Desktop********************/
+/************************************/
+
+@media screen and (min-width: 1024px){
+    header {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    h1 {
+        margin-left: 10px;
+    }
+}
