@@ -2,12 +2,15 @@
 /*********Mobile*********************/
 /************************************/
 
+
 /*********Reset CSS******************/
 
 * {
     margin: 0;
     padding: 0;
 }
+
+
 
 /*********Header*********************/
 
@@ -24,4 +27,12 @@ header {
     background-color: #1e3449;
     border-radius: 10px;
     margin-top: 10px;
+}
+
+
+
+/*********Main**********************/
+
+h2 {
+    background: radial-gradient(#25a6df, #0f70b7);
 }
