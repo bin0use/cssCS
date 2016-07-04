@@ -49,9 +49,22 @@ dl {
 
 dt {
     font-weight: bold;
+    margin-top: 8px;
 }
 
 dd {
     padding-left: 15px;
     color: #0f70b7
+}
+
+
+
+/************************************/
+/*********Tablet*********************/
+/************************************/
+
+@media screen and (min-width: 600px){
+    main {
+        display: flex;
+    }
 }
